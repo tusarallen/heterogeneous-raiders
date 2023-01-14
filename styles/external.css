@@ -1,0 +1,85 @@
+* {
+    margin: 0 auto;
+    font-family: 'Work Sans', sans-serif;
+    ;
+}
+
+/* --------------------------------------------------------------------
+                   start header styles 
+--------------------------------------------------------------------- */
+
+.header-container {
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 144, 14, 0.1);
+}
+
+.nav-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.nav-title {
+    font-weight: 700;
+    font-size: 25px;
+    color: #131313;
+    margin: 25px;
+    margin-left: 80px;
+}
+
+.nav-menubar ul {
+    display: flex;
+    margin: 35px;
+    margin-left: 400px;
+}
+
+ul li {
+    list-style: none;
+    padding-left: 30px;
+}
+
+/* banner styles  */
+
+.banner-title {
+    font-weight: 800;
+    font-size: 54px;
+    text-align: center;
+    color: #131313;
+    margin-bottom: 25px;
+}
+
+.banner-description {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #727272;
+    margin-bottom: 25px;
+}
+
+.btn-primary {
+    width: 180px;
+    height: 64px;
+    background: #FF900E;
+    border-radius: 8px;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    justify-content: center;
+    margin-left: 560px;
+    margin-bottom: 50px;
+}
+
+.section-banner-image {
+    width: 80%;
+    height: 100%;
+    border-radius: 8px;
+    margin-left: 120px;
+    margin-bottom: 40px;
+}
+
+/* --------------------------------------------------------------------
+                   end header styles 
+--------------------------------------------------------------------- */
