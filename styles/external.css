@@ -323,3 +323,78 @@ ul li {
 
 /* bonus section styles  */
 
+.bonus-section {
+    width: 100%;
+    height: 100%;
+}
+
+.bonus-banner-title {
+    font-weight: 800;
+    font-size: 48px;
+    text-align: center;
+    color: #131313;
+    margin-bottom: 25px;
+    text-shadow: 2px 2px 5px red;
+}
+
+.bonus-section-banner img {
+    width: 100%;
+    height: 100%;
+}
+
+/* --------------------------------------------------------------------
+                   end main styles 
+--------------------------------------------------------------------- */
+
+/* --------------------------------------------------------------------
+                   start footer styles 
+--------------------------------------------------------------------- */
+.footer-text {
+    position: relative;
+    bottom: 60px;
+}
+
+.footer-section-title {
+    font-weight: 700;
+    font-size: 35px;
+    color: #131313;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.footer-section-description {
+    font-weight: 400;
+    font-size: 13px;
+    color: #727272;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.footer-logos ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 30px;
+    margin-bottom: 80px;
+}
+
+.footer-end {
+    width: 80%;
+    height: 80%;
+    background: #FFF4E7;
+    border-radius: 8px;
+}
+
+.footer-end-text {
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    color: #424242;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+
+/* --------------------------------------------------------------------
+                   end footer styles 
+--------------------------------------------------------------------- */
