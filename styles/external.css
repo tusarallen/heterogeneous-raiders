@@ -76,7 +76,7 @@
     width: 80%;
     height: 100%;
     border-radius: 8px;
-    margin-left: 120px;
+    margin-left: 130px;
     margin-bottom: 40px;
 }
 
@@ -96,10 +96,11 @@
 
 .main-first-section {
     display: flex;
+    margin-bottom: 130px;
 }
 
 .first-section-img {
-    padding-left: 100px;
+    padding-left: 140px;
 }
 
 .first-section-img ul {
@@ -164,3 +165,161 @@ ul li {
 }
 
 /* start main-second-section   */
+
+.main-second-section {
+    width: 100%;
+    height: 100%;
+}
+
+.main-second-section-info {
+    display: flex;
+}
+
+.main-second-section-text {
+    width: 100%;
+    height: 100%;
+    padding-left: 110px;
+}
+
+.main-second-section-text-title {
+    font-weight: 700;
+    font-size: 38px;
+    color: #131313;
+    padding-left: 27px;
+    margin-left: 26px;
+    margin-bottom: 24px;
+    border-left: 5px solid #FF900E;
+
+}
+
+.main-second-section-descripton {
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+    padding-left: 27px;
+    margin-bottom: 30px;
+
+}
+
+.another-style-div {
+    width: 540px;
+    height: 110px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.another-style-div-title {
+    font-weight: 600;
+    font-size: 17px;
+    color: #131313;
+    padding-top: 25px;
+    padding-left: 25px;
+
+}
+
+.another-style-div-description {
+    font-weight: 400;
+    font-size: 13px;
+    color: #727272;
+    padding-top: 17px;
+    padding-left: 27px;
+
+}
+
+.main-second-section-image {
+    width: 100%;
+    height: 100%;
+}
+
+.main-second-section-images {
+    width: 500px;
+    height: 600px;
+    background: url(successful-business-concept-businesswoman-are-smiling-standing-with-crossed-arms-office.jpg);
+    border-radius: 8px;
+    padding-left: 40px;
+    margin-top: 20px;
+}
+
+.btn-primary-year {
+    width: 190px;
+    height: 120px;
+    background: #FF900E;
+    border-radius: 8px;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 28px;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    bottom: 45px;
+    right: 0;
+    margin-bottom: 100px;
+}
+
+.button-text {
+    font-weight: 400;
+    font-size: 17px;
+}
+
+/* start last section styles */
+
+.last-section {
+    margin-bottom: 100px;
+}
+
+.last-section-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 53px;
+    color: #131313;
+    margin-left: 130px;
+}
+
+.last-section-description {
+    font-weight: 400;
+    font-size: 14px;
+    color: #727272;
+    margin-left: 130px;
+    margin-bottom: 80px;
+
+}
+
+.icon-part {
+    display: flex;
+    margin: 0 8%;
+}
+
+.icon-div {
+    border: 2px solid #FF900E;
+    border-radius: 5px;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+.icon-div:hover {
+    border-color: dodgerblue;
+}
+
+.icon-div li {
+    list-style: none;
+
+}
+
+.icon-div .icon-title {
+    font-weight: 600;
+    font-size: 35px;
+    color: #424242;
+    padding-bottom: 5px;
+}
+
+.icon-div .icon-description {
+    font-weight: 600;
+    font-size: 14px;
+    color: #727272;
+}
+
+/* bonus section styles  */
+
